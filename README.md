@@ -91,9 +91,11 @@ If your team didn't win the bid, play your non-trump aces as soon as possible. M
 
 If you only have K-5 (or even K-10) of a given suit, you should almost always lead the 5 (or 10). You were probably going to lose it anyway, and this way, you will probably win the second trick in that suit.
 
-## Author
+## Authors
 
 👤 **Grant O'Brien, Nicholas Noel and Michael McKenzie**
+
+*Originally written for Software Design 5895 Course Project, Winter 2011 @ Memorial University of Newfoundland 🎓*
 
 
 ## Show your support
